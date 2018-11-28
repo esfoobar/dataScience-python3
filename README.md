@@ -2,4 +2,4 @@
 
 Exercises for the Udemy course with Frank Kane
 
-To start the Jupyter Notebook do: `jupyter notebook`k
+To start the Jupyter Notebook do: `jupyter notebook`
