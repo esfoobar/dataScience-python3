@@ -7,3 +7,5 @@ statsmodels
 xlrd
 pydotplus
 matplotlib
+quandl
+pandas_datareader
